@@ -188,7 +188,7 @@ ggplot(storms, aes(x = Tr, y = Qp)) +
 **1. (1 pt) What does the C in the Rational Method do?**  
 ANSWER: 
 
-**2. (3 pt) What is the the time of concentration and why does it need to be taken into account for the Rational Method? What is a common issue among many tc methods?**  
+**2. (2 pt) What is the the time of concentration and why does it need to be taken into account for the Rational Method? What is a common issue among many tc methods?**  
 ANSWER: 
 
 ### Part II - NRCS CN
