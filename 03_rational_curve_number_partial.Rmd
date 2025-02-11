@@ -225,7 +225,7 @@ AMC <- 3
 # use the equations from the lecture to adjust the CN to dry or wet conditions if necessary
 # AMC I
 if (AMC == 1) {
-  CN_adj <- (4.2 * CN) / (10 + 0.13 * CN)
+  CN_adj <- (4.2 * CN) / (10 + 0.058 * CN)
 }
 
 # AMC II The curve number remains whatever the input is.
